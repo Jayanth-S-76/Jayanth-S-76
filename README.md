@@ -1,6 +1,6 @@
 # Hello, I'm Jayanth
 # 💫 About Me:
-Aspiring Data Analyst skilled in Power BI, SQL, Python, and Data Visualization. MBA (Finance & Marketing) student with a B.Com background, passionate about turning data into business insights and building impactful dashboards.
+Certified Data Analyst skilled in Power BI, SQL, Python, and Data Visualization. MBA (Finance & Marketing) student with a B.Com background, passionate about turning data into business insights and building impactful dashboards.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayanth-s-513a08393) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayanth.s.7623@gmail.com) 
